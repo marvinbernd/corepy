@@ -1,2 +1,2 @@
 # corepy
-Exercises of the Pluralsight Core Python: Getting Started Course
+Exercises for the Pluralsight Core Python: Getting Started Course
